@@ -1,5 +1,5 @@
 
-/* Proyecto final arduino 2023. Zabala Daiana
+/* Proyecto final Arduino 2023. Zabala Daiana
 
   OBJETIVO: Realizar una lampara portatil con un ventilador con conexion usb.
   Lampara: tira de Leds reutilizados.
